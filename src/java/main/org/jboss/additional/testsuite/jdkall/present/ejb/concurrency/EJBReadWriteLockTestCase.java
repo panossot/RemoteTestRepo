@@ -41,7 +41,7 @@ import org.jboss.eap.additional.testsuite.annotations.EapAdditionalTestsuite;
  * @version $Revision: $
  */
 @EapAdditionalTestsuite({"modules/testcases/jdkAll/Wildfly/ejb/src/main/java","modules/testcases/jdkAll/Eap7/ejb/src/main/java"})
-public class EJBReadWriteLockTest {
+public class EJBReadWriteLockTestCase {
 
     /**
      * Used in tests
